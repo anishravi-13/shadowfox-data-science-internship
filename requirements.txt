@@ -1,0 +1,24 @@
+# ShadowFox Data Science Internship - Dependencies
+# Python >= 3.10
+
+# Core Data Manipulation
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Natural Language Processing & Sentiment Analysis
+nltk>=3.8.1
+vaderSentiment>=3.3.2
+
+# Machine Learning & Statistics
+scikit-learn>=1.2.0
+scipy>=1.10.0
+
+# Jupyter Notebook Environment
+jupyter>=1.0.0
+ipykernel>=6.20.0
+nbconvert>=7.0.0
